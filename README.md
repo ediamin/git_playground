@@ -1,12 +1,12 @@
 # Git Playground
 I'm learning git and this is my testing repository. Here I'll play and learn git.
 
-So let's first play with README.md file and learn some markdown synatax first.
+So let's first play with README.md file and learn some markdown syntax first.
 
-[I'm following Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn Markdown. Yes, I know, *cheeting* is **not** good for _learning_.
+[I'm following Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheat) to learn Markdown. Yes, I know, *cheating* is **not** good for _learning_.
 
 But let's just make a list in markdown.
-## List title hist header-2
+## List title using header-2
 * item 1
 * item 2
 * item 3
@@ -17,12 +17,12 @@ This line contains `an inline code`
 var str = "Some javascript code"
 ```
 
-Table in Markdown
-Installed OS | Version
---- | ---
-Ubuntu | 14.04
-Android-x86 | Kitkat-RC2
-Windows | 7
+Table in Markdown is problamatic
+| Installed OS | Version    |
+| ------------ |:----------:|
+| Ubuntu       | 14.04      |
+| Android-x86  | Kitkat-RC2 |
+| Windows      | 7          |
 
 <table>
     <caption>The same table in pure HTML format</caption>
