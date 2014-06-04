@@ -19,7 +19,7 @@ var str = "Some javascript code"
 
 Table in Markdown is problamatic
 | Installed OS | Version    |
-| ------------ |:----------:|
+| ------------ | ----------:|
 | Ubuntu       | 14.04      |
 | Android-x86  | Kitkat-RC2 |
 | Windows      | 7          |
